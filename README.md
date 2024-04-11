@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on [DSA-forInterviews](https://github.com/Spidey24/DSA-for-Interviews)
 
-- 💬 Ask me about **Python, Azure AI stuff**
-
 - 📫 How to reach me **kaditya2024@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Ph2rDxYHQSHWVDiNh43rSHSP4b1gDC2V/view](https://drive.google.com/file/d/1Ph2rDxYHQSHWVDiNh43rSHSP4b1gDC2V/view)
