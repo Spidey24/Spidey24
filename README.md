@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **kaditya2024@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ph2rDxYHQSHWVDiNh43rSHSP4b1gDC2V/view](https://drive.google.com/file/d/1Ph2rDxYHQSHWVDiNh43rSHSP4b1gDC2V/view)
-
 - ⚡ Fun fact **I am too lazy that's why I know prompt engineering well from start itself**
 
 <h3 align="left">Connect with me:</h3>
@@ -34,7 +32,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" style="background-color: white; border-radius: 50%;" />
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" style="background-color: white; border-radius: 50%;" />
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" style="background-color: white; border-radius: 50%;" />
-<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg" alt="ruby" width ="40" height="40" style="background-color: white; border-radius: 50%;"/>
+<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg" alt="ruby" width ="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="ruby" width ="40" height="40" style="background-color: white; border-radius: 50%;"/>  
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="background-color: white; border-radius: 50%;" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="background-color: white; border-radius: 50%;" />
