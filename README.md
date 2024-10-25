@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as Software Engineer at [BrowserStack](https://www.browserstack.com/?utm_source=google&utm_medium=cpc&utm_platform=paidads&utm_content=668803176719&utm_campaign=Search-Brand-APAC-Navigational&utm_campaigncode=Core+9302623&utm_term=e+browserstack)
 
-- 🌱 I’m currently learning **Ruby, Ruby on Rails, Bash*
+- 🌱 I’m currently learning **Ruby, Ruby on Rails, Bash***
 
 - 📫 How to reach me **kaditya2024@gmail.com**
 
@@ -32,13 +32,9 @@
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" style="background-color: white; border-radius: 50%;" />
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" style="background-color: white; border-radius: 50%;" />
 <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" style="background-color: white; border-radius: 50%;" />
-<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg" alt="ruby" width ="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="ruby" width ="40" height="40" style="background-color: white; border-radius: 50%;"/>  
+<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg" alt="ruby" width ="40" height="40" style="background-color: white; border-radius: 50%;"/>
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width ="40" height="40" style="background-color: white; border-radius: 50%;"/>
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="background-color: white; border-radius: 50%;" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="80" style="background-color: white; border-radius: 50%;" />
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" style="background-color: white; border-radius: 50%;" />
 </p>
-
-
-
-
