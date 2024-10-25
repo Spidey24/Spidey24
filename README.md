@@ -35,7 +35,7 @@
 <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-horizontal.svg" alt="ruby" width ="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="ruby" width ="40" height="40" style="background-color: white; border-radius: 50%;"/>  
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="background-color: white; border-radius: 50%;" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="background-color: white; border-radius: 50%;" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="80" style="background-color: white; border-radius: 50%;" />
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" style="background-color: white; border-radius: 50%;" />
 </p>
 
